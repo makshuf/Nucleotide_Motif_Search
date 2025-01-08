@@ -46,11 +46,11 @@ install.packages("tcltk")
 
 ### Example Output
 If the folder contains:
-```
+
 file1.txt
 image.png
 report.pdf
-```
+
 
 The resulting Excel file will look like this:
 
@@ -61,7 +61,7 @@ The resulting Excel file will look like this:
 | report.pdf   |
 
 ---
-
+```
 ## Code Overview
 
 ### Step 1: Load Libraries
@@ -106,4 +106,4 @@ If you'd like to improve this script, feel free to fork the repository, make cha
 ## License
 
 This script is licensed under the MIT License. Feel free to use and modify it as needed.
-```
+
