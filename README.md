@@ -1,1 +1,1 @@
-The repository contains small scripts that I have used for various purposes at some point in time. The scripts are in a folder of their own and the folder name relates to what it does but for specific function of each tool check its readme file.
+The repository contains small scripts that I have used for various purposes at some point in time. The scripts are in a folder of their own and the folder name relates to what it does but for specific function of each tool check its readme file, they are pretty detailed as i used AI to generate them.
